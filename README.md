@@ -122,13 +122,13 @@ The dataset contains loan-level financial and borrower information such as:
 
 ## 📸 Dashboard Screenshots
 ### Summary Dashboard
-![Summary Dashboard](Screenshot%202026-01-08%20132227.png)
+![Summary Dashboard](https://github.com/aloshiyamishra/Bank-Loan-Report-Tableau/blob/0163b389a0e9a6e5aa32b07ba4aae353d7e7c50f/Screenshot%202026-01-08%20132227.png)
 
 ### Overview Dashboard
-![Overview Dashboard](Screenshot%202026-01-08%20132712.png)
+![Overview Dashboard](https://github.com/aloshiyamishra/Bank-Loan-Report-Tableau/blob/0163b389a0e9a6e5aa32b07ba4aae353d7e7c50f/Screenshot%202026-01-08%20132712.png)
 
 ### Details Dashboard
-![Details Dashboard](Screenshot%202026-01-08%20132738.png)
+![Details Dashboard](https://github.com/aloshiyamishra/Bank-Loan-Report-Tableau/blob/0163b389a0e9a6e5aa32b07ba4aae353d7e7c50f/Screenshot%202026-01-08%20132738.png)
 
 ---
 
